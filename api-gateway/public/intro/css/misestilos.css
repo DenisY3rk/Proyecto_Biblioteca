@@ -1,0 +1,22 @@
+#margin{
+    padding:0;
+    margin: 0;
+}
+.lwhite
+{
+    color: white;
+
+}
+.pt
+{
+    position: absolute;
+}
+
+
+.img
+{
+    margin-top: -50px;
+    width: 100%;
+    position: fixed;
+    opacity: 0.8;
+}
